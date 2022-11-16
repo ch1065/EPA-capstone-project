@@ -1,0 +1,11 @@
+to get the raw data for this project, go to the the EPA Pre-generated data page
+
+https://aqs.epa.gov/aqsweb/airdata/download_files.html
+
+download all the following files for the years 2019, 2020, and 2021:
+-hourly ozone
+-hourly NO2
+-hourly wind (contains windspeed and direction)
+-hourly temperature
+-hourly barometric pressure 
+-hourlt RH and dewpoint 
